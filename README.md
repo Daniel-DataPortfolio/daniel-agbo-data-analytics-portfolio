@@ -58,5 +58,5 @@ Tools: Power BI, Power Query, DAX
 
 ---
 
-logo: photo_2025-12-07_15-16-29.jpg
+## 🖼️ Project Preview (Insert Screenshot Here)
 
