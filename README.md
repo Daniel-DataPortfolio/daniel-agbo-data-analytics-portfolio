@@ -58,12 +58,7 @@ Tools: Power BI, Power Query, DAX
 
 ---
 
-## 🖼️ Project Preview (photo_2025-12-07_15-16-29.jpg)
+## 🖼️ Project Preview
+![image](photo_2025-12-07_15-16-29.jpg)
 
-
-*Add your image file to an 'assets/' folder and update the filename.*
-
----
-
-## 📥 Download Power BI File
 
