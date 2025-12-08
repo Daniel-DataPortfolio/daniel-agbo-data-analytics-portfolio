@@ -125,3 +125,27 @@ Tools: Power BI, Power Query, DAX
 
 
 
+---
+
+## 📘 Project Overview  
+A Power BI dashboard that analyzes retail sales performance, covering outlet productivity, revenue trends, customer ratings, product category breakdown, and multi-year performance insights.
+
+---
+
+## 📊 Key Insights  
+- Medium-sized outlets achieved the highest revenue  
+- Tier 2 locations consistently outperformed Tier 1 & Tier 3  
+- Supermarket Type 2 led in profitability  
+- Product availability strongest in Type 2 outlets  
+
+---
+
+## 🎯 Recommendations  
+- Increase inventory for high-performing outlet tiers  
+- Expand category offerings where revenue contribution is highest  
+- Improve customer engagement in low-rating regions  
+- Scale operations in Tier 2 for long-term growth  
+
+---
+
+# 🗂️ Portfolio Structure
