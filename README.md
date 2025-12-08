@@ -116,7 +116,7 @@ Tools: Power BI, Power Query, DAX
 ### 📁 Power BI File Download
 After uploading MARKET SQUARE.pbix into your repo (recommended folder: /files), use the link below:
 
-[📥 Download Power BI File (MARKET SQUARE.pbix)](./files/MARKET%20SQUARE.pbix)
+[📥 Download Power BI File](MARKET SQUARE.pbix)
 
 ---
 
