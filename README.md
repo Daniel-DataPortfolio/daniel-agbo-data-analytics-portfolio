@@ -149,3 +149,16 @@ A Power BI dashboard that analyzes retail sales performance, covering outlet pro
 ---
 
 # 🗂️ Portfolio Structure
+
+
+---
+
+# 📫 Contact  
+
+- 📞 Phone: 09162351135  
+- 🔗 LinkedIn: https://www.linkedin.com/in/daniel-agbo-6021b2291  
+- 📧 Email: agbodaniel757@gmail.com  
+
+---
+
+⭐️ *Thank you for viewing my portfolio. More financial analytics projects coming soon.*
