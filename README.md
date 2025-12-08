@@ -51,7 +51,7 @@ My goal is to keep building deeper expertise in financial analytics, while apply
 # 1️⃣ FCMB Loan Performance & Risk Analysis Dashboard  
 Domain: Financial Analytics  
 Tools: Power BI, Power Query, DAX  
-[📥 Download Power BI File (FCMB 8.pbix)](./FCMB%208.pbix)
+[📥 Download Power BI File (FCMB 8.pbit)](./FCMB%208.pbit)
 
 
 
