@@ -59,6 +59,68 @@ Tools: Power BI, Power Query, DAX
 ---
 
 ## 🖼️ Project Preview
-![image](photo_2025-12-07_15-16-29.jpg)
+![image](photo_2025-12-07_15-16-29.jpg
+
+
+
+
+---
+
+## 📘 Project Overview  
+This Power BI report provides a full analysis of loan performance for FCMB, focusing on key financial indicators such as disbursement patterns, approval rates, defaults, interest income, borrower categories, and branch-level activity.
+
+It offers stakeholders a clear view of:  
+- Loan portfolio health  
+- Risk insights  
+- Revenue contribution via interest  
+- Borrower behavior  
+- Branch performance  
+- Year-over-year changes  
+
+This project strongly reflects my growing direction in Financial Data Analytics.
+
+---
+
+## 🔎 Objectives  
+- Evaluate how loans are performing across years, categories, and branches  
+- Monitor risk metrics including defaults and repayments  
+- Understand revenue generation from interest  
+- Identify which borrower groups or branches contribute most to loan activity  
+- Provide insights to support lending decisions and risk mitigation  
+
+---
+
+## 📊 Key Insights  
+- Total Disbursed: $240.30M  
+- Interest Earned: $36.02M  
+- Default Rate: 15.06%  
+- Business loans recorded the highest disbursement volume  
+- Defaults decreased significantly from 2023 to 2024  
+- Kaduna & Lagos branches showed strong loan activity  
+
+---
+
+## 🎯 Recommendations  
+- Strengthen credit checks in high-default regions  
+- Promote loan products with lower risk exposure  
+- Optimize performance-based funding to top-performing branches  
+- Improve financial literacy awareness for high–risk borrower groups  
+
+---
+
+---
+
+# 2️⃣ Retail Sales & Outlet Performance Dashboard  
+Domain: Business Analytics  
+Tools: Power BI, Power Query, DAX  
+📁 *Repository Link:* _Insert link here_
+
+---
+
+## 🖼️ Project Preview (Insert Screenshot Here)
+
+
+
+
 
 
