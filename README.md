@@ -117,7 +117,8 @@ Tools: Power BI, Power Query, DAX
 
 ---
 
-## 🖼️ Project Preview (Insert Screenshot Here)
+## 🖼️ Project Preview
+![image](photo_2025-12-07_15-22-53.jpg)
 
 
 
