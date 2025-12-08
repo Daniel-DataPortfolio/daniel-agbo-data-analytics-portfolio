@@ -113,7 +113,7 @@ This project strongly reflects my growing direction in Financial Data Analytics.
 # 2️⃣ Retail Sales & Outlet Performance Dashboard  
 Domain: Business Analytics  
 Tools: Power BI, Power Query, DAX  
-[📥 Download Power BI File (MARKET SQUARE.pbix)](./files/MARKET%20SQUARE.pbix)
+[📥 Download Power BI File (MARKET SQUARE.pbix)](./files/MARKET%SQUARE.pbix)
 
 ---
 
